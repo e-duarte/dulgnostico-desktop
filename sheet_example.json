@@ -1,0 +1,31 @@
+{
+    "link": "this is generated automatically",
+    "header":["line1", "line2"],
+    "metadata": {
+        "title": "Sheet name",
+        "subject": "subject name",
+        "grade": 1,
+        "bimester": 2,
+        "year": 2023
+    },
+    "shared_with": "any email",
+    "columns_width": 120,
+    "vars":[
+        {
+            "name": "adição",
+            "values": [
+                "sim",
+                "não",
+                "parcial"
+            ]
+        },
+        {
+            "name": "subtração",
+            "values": [
+                "sim",
+                "não",
+                "parcial"
+            ]
+        }
+    ]
+}
